@@ -17,11 +17,11 @@ public class BiggestNumber
     }
     else if(y>x&&y>z)
     {   
-      System.out.printIn("Largest number is:"+y);
+      System.out.printIn("Largeskjbghvghs:"+y);
     }
     else
     {
-      System.out.printIn("Largest number is:"+z);
+      System.out.printIn("Lagvgygh:"+z);
     }
    }
   }
